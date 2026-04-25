@@ -17,5 +17,12 @@
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A simple scene demonstrating how to use the Game State Manager and listen to state changes.",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
