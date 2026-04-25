@@ -1,0 +1,16 @@
+{
+    "name": "com.thelegends.gamestate.manager.Demo",
+    "rootNamespace": "com.thelegends.gamestate.manager.Demo",
+    "references": [
+        "com.thelegends.gamestate.manager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
