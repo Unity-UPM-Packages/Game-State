@@ -4,7 +4,8 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "com.thelegends.gamestate.manager"
+        "com.thelegends.gamestate.manager",
+        "com.thelegends.unity.patterns"
     ],
     "includePlatforms": [
         "Editor"

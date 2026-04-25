@@ -2,7 +2,8 @@
     "name": "com.thelegends.gamestate.manager.Editor",
     "rootNamespace": "com.thelegends.gamestate.manager.Editor",
     "references": [
-        "com.thelegends.gamestate.manager"
+        "com.thelegends.gamestate.manager",
+        "com.thelegends.unity.patterns"
     ],
     "includePlatforms": [
         "Editor"

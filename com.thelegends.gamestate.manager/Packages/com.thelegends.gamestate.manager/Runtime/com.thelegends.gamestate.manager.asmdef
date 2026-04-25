@@ -1,7 +1,9 @@
 {
     "name": "com.thelegends.gamestate.manager",
     "rootNamespace": "com.thelegends.gamestate.manager",
-    "references": [],
+    "references": [
+        "com.thelegends.unity.patterns"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
