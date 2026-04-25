@@ -1,0 +1,21 @@
+{
+  "name": "com.thelegends.gamestate.manager",
+  "displayName": "Game State Manager",
+  "description": "Game State Manager used with Uniy3D",
+  "keywords": [],
+  "version": "0.0.0",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Game-State#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Game-State/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/Game-State.git",
+    "url": "https://github.com/Unity-UPM-Packages/Game-State.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {}
+}
