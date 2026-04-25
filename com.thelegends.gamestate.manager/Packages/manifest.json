@@ -1,8 +1,18 @@
 {
   "dependencies": {
+    "com.thelegends.unity.patterns": "1.0.2",
     "com.unity.ide.rider": "3.0.36",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ides": "https://github.com/dunward/com.unity.ides.git",
     "com.unity.test-framework": "1.1.33"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "TheLegends",
+      "url": "https://verdaccio.thelegends.io.vn/",
+      "scopes": [
+        "com.thelegends"
+      ]
+    }
+  ]
 }
