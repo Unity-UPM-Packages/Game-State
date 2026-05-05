@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Unity-UPM-Packages/Game-State/compare/v1.0.1...v1.0.2) (2026-05-05)
+
+
+### Bug Fixes
+
+* add RequiresConstantRepaint editor ([06f4d3a](https://github.com/Unity-UPM-Packages/Game-State/commit/06f4d3a9d2fe03ef5a6e1e19c69b2aa139de65c6))
+
 ## [1.0.1](https://github.com/Unity-UPM-Packages/Game-State/compare/v1.0.0...v1.0.1) (2026-05-05)
 
 
