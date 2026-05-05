@@ -7,6 +7,11 @@ namespace TheLegends.Base.GameState.Editor
     [CustomEditor(typeof(GameStateManager))]
     public class GameStateManagerEditor : UnityEditor.Editor
     {
+        public override bool RequiresConstantRepaint()
+        {
+            return Application.isPlaying;
+        }
+
         public override void OnInspectorGUI()
         {
             // Draw default inspector
