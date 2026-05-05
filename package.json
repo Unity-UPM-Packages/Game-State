@@ -3,7 +3,7 @@
   "displayName": "Game State Manager",
   "description": "Game State Manager used with Uniy3D",
   "keywords": [],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2021.3",
   "documentationUrl": "https://github.com/Unity-UPM-Packages/Game-State#documentation",
   "changelogUrl": "https://github.com/Unity-UPM-Packages/Game-State/releases",
