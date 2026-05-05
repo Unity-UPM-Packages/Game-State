@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Unity-UPM-Packages/Game-State/compare/v1.0.0...v1.0.1) (2026-05-05)
+
+
+### Bug Fixes
+
+* import dependencies ([c8a9309](https://github.com/Unity-UPM-Packages/Game-State/commit/c8a9309167ff018e5a85db14429b2ad6a36a51c8))
+
 # 1.0.0 (2026-04-25)
 
 
